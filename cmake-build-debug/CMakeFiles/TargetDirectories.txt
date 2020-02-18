@@ -1,0 +1,3 @@
+/home/polina/CLionProjects/Hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/polina/CLionProjects/Hello/cmake-build-debug/CMakeFiles/Hello.dir
+/home/polina/CLionProjects/Hello/cmake-build-debug/CMakeFiles/edit_cache.dir
